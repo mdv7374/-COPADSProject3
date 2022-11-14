@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FZZdrD18NIOWarNE7R8sT0yNvGpfEyLxpZzaXwkFOqP9+GBZ0PB83ImHh02TqS8CICajMA5LA0wY+flxOCqgSg==",
+  "dgSpecHash": "ibpfjLxQXH98wGkGQSlTFzceAAgQSQ9i4flWqwpdkKEUJD1PVWwR5x6c8hHjwhtDro8JnGFoOq7NRl4M3dvxdw==",
   "success": true,
   "projectFilePath": "C:\\Users\\micha\\Desktop\\Fall 2022\\Conc of Par & Dist Systems\\Project3\\Project_3\\Project_3\\Project_3.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\micha\\.nuget\\packages\\newtonsoft.json\\13.0.2-beta3\\newtonsoft.json.13.0.2-beta3.nupkg.sha512"
+  ],
   "logs": []
 }
