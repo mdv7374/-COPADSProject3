@@ -1,5 +1,6 @@
+//Michael Vogt
+//file used to generate prime numbers
 namespace Project_3;
-using System.Diagnostics;
 using System.Numerics;
 using System.Security.Cryptography;
 
@@ -108,8 +109,7 @@ using System.Security.Cryptography;
         }
     }
 
-    //the main class, used to validate user input from command line and produce the
-    //requested number of prime numbers of requested bit size
+    //the main class, used to create prime ints based on input
     public class PrimeGen
     {
         //generates a big int with the specified bytecount
